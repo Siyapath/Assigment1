@@ -3,4 +3,4 @@ I'm the hero this project needs!
 Objective: Save the code, protect the repo!
 Tools: Git, terminal, coffee!
 Team: Captain Git, Code Master, Bug Buster
-Superpower: Super speed
+Superpower: Super speedAbility: Code invisibility
